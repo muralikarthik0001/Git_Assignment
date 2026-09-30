@@ -1,0 +1,6 @@
+C++ Programming
+Java
+Data Structures
+DBMS
+Software Engineering
+Mathematics
