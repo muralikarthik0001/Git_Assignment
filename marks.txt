@@ -1,0 +1,5 @@
+DBMS: 25
+Java: 27
+Data Structures: 28
+Software Engineering: 26
+Mathematics: 29
